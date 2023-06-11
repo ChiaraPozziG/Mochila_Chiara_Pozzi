@@ -1,0 +1,5 @@
+1 Cada sistema operativo tiene su propia arquitectura y conjunto de bibliotecas y herramientas disponibles. Un lenguaje de programación necesita ser implementado y adaptado para funcionar en un sistema operativo específico. Esto implica desarrollar compiladores, intérpretes y herramientas de desarrollo que sean compatibles con el sistema operativo en cuestión. Si los desarrolladores no han creado una implementación o un entorno de ejecución del lenguaje para un sistema operativo en particular, no será posible utilizarlo directamente en ese sistema.
+
+2 Es un software para virtualización, tambien conocido como hipervisor de tipo 2, que se utilizar para virtualizar sistemas operativos dentro de nuestro ordenador existente, la misma se ejecuta como una aplicación en un sistema operativo ya existente, en este caso, el sistema operativo del host. en las tipo 1 no es necesario que usemos un sistema operativo para ejecutar otro
+
+3 No deberia ya que son entornos seguros cada máquina virtual está aislada y se ejecuta de manera independiente.
