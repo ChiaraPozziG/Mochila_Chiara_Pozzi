@@ -1,0 +1,3 @@
+IP Privada :10.0.2.15 
+IP Publica :127.0.1.1
+Si, pueden ser diferentes ya que cada una tiene su propia configuracion de red
